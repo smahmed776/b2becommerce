@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/b2becommerce/static/css/main.c2920c57.chunk.css",
+    "main.js": "/b2becommerce/static/js/main.c0c0c3fb.chunk.js",
+    "main.js.map": "/b2becommerce/static/js/main.c0c0c3fb.chunk.js.map",
+    "runtime-main.js": "/b2becommerce/static/js/runtime-main.491d419c.js",
+    "runtime-main.js.map": "/b2becommerce/static/js/runtime-main.491d419c.js.map",
+    "static/css/2.805ab99a.chunk.css": "/b2becommerce/static/css/2.805ab99a.chunk.css",
+    "static/js/2.ee36fb56.chunk.js": "/b2becommerce/static/js/2.ee36fb56.chunk.js",
+    "static/js/2.ee36fb56.chunk.js.map": "/b2becommerce/static/js/2.ee36fb56.chunk.js.map",
+    "static/js/3.5bf6b742.chunk.js": "/b2becommerce/static/js/3.5bf6b742.chunk.js",
+    "static/js/3.5bf6b742.chunk.js.map": "/b2becommerce/static/js/3.5bf6b742.chunk.js.map",
+    "index.html": "/b2becommerce/index.html",
+    "static/css/2.805ab99a.chunk.css.map": "/b2becommerce/static/css/2.805ab99a.chunk.css.map",
+    "static/css/main.c2920c57.chunk.css.map": "/b2becommerce/static/css/main.c2920c57.chunk.css.map",
+    "static/js/2.ee36fb56.chunk.js.LICENSE.txt": "/b2becommerce/static/js/2.ee36fb56.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/b2becommerce/static/media/bootstrap-icons.dfd0ea12.woff2",
+    "static/media/carousel.84cc4e3d.png": "/b2becommerce/static/media/carousel.84cc4e3d.png",
+    "static/media/categories.css": "/b2becommerce/static/media/clothcarousel.6d933afb.png",
+    "static/media/freeLogo.12c4b016.jpg": "/b2becommerce/static/media/freeLogo.12c4b016.jpg",
+    "static/media/item1.326a5668.png": "/b2becommerce/static/media/item1.326a5668.png",
+    "static/media/orange.db93bfc2.png": "/b2becommerce/static/media/orange.db93bfc2.png",
+    "static/media/people.5c1bb1ec.jpg": "/b2becommerce/static/media/people.5c1bb1ec.jpg",
+    "static/media/qrcode.a831b4ed.png": "/b2becommerce/static/media/qrcode.a831b4ed.png",
+    "static/media/slick-theme.css": "/b2becommerce/static/media/slick.c94f7671.ttf",
+    "static/media/weaccept.8ea9fa69.png": "/b2becommerce/static/media/weaccept.8ea9fa69.png",
+    "static/media/whyChose.03b11b30.png": "/b2becommerce/static/media/whyChose.03b11b30.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.491d419c.js",
+    "static/css/2.805ab99a.chunk.css",
+    "static/js/2.ee36fb56.chunk.js",
+    "static/css/main.c2920c57.chunk.css",
+    "static/js/main.c0c0c3fb.chunk.js"
+  ]
+}
