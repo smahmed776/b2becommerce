@@ -27,19 +27,38 @@ const Header = () => {
         <header>
 
             <div className="bg-dark d-flex justify-content-center">
-                <nav className="navbar navbar-dark px-0 px-md-3 top-header">
-                    <div className="row row-cols-1 row-cols-sm-2 w-100">
+                <nav className="navbar navbar-dark px-0 px-md-2 top-header">
+                    <div className="row row-cols-3 row-cols-sm-5 gx-0 m-0 justify-content-center align-items-center w-100">
                         <div className="col">
 
                             <ul className="navbar-nav flex-row justify-content-evenly w-100">
                                 <li className="nav-item"><a href="" className="nav-link">Dropshipping</a></li>
+                            </ul>
+                        </div>
+                        <div className="col">
+
+                            <ul className="navbar-nav flex-row justify-content-evenly w-100">
+                               
                                 <li className="nav-item"><a href="" className="nav-link">Trade Shows</a></li>
+                               
+                            </ul>
+                        </div>
+                        <div className="col">
+
+                            <ul className="navbar-nav flex-row justify-content-evenly w-100">
+                               
                                 <li className="nav-item"><a href="" className="nav-link">Help</a></li>
                             </ul>
                         </div>
                         <div className="col">
+
                             <ul className="navbar-nav flex-row justify-content-evenly w-100">
+                               
                                 <li className="nav-item"><a href="" className="nav-link">For Buyers</a></li>
+                            </ul>
+                        </div>
+                        <div className="col">
+                            <ul className="navbar-nav flex-row justify-content-evenly w-100">
                                 <li className="nav-item"><a href="" className="nav-link">Make money on Globalhub</a></li>
                             </ul>
 
@@ -100,72 +119,66 @@ const Header = () => {
 
             <div className="bg-white container-fluid px-2 px-xl-5 mt-2">
                 <nav className="navbar navbar-light w-100">
-                    <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 justify-content-center gy-2 w-100">
+                    
 
-                        <div className="col p-0 d-flex">
-
-                            <ul className="navbar-nav flex-row justify-content-evenly w-100 ps-3">
-                                <li className="nav-item">
+                            <ul className="navbar-nav flex-row flex-wrap justify-content-evenly w-100 ps-3">
+                                <li className="nav-item flex-fill border-end me-2 p-1">
                                     <a href="" className="nav-link">
                                         <span className="bi bi-justify pe-3"></span> Categories
                                     </a>
                                 </li>
-                                <li className="nav-item">
+                                <li className="nav-item flex-fill border-end me-2 p-1">
                                     <a href="" className="nav-link">
                                         Save more on app
                                     </a>
                                 </li>
-                                <li className="nav-item">
+                                <li className="nav-item flex-fill border-end me-2 p-1">
                                     <a href="" className="nav-link">
                                         Affiliate Program
                                     </a>
                                 </li>
 
-                            </ul>
-                        </div>
-                        <div className="col p-0 d-flex">
+                        
+                        
+                       
 
-                            <ul className="navbar-nav flex-row justify-content-evenly w-100 ps-3">
-
-                                <li className="nav-item">
+                                <li className="nav-item flex-fill border-end me-2 p-1">
                                     <a href="" className="nav-link">
                                         Sell on imponexpo
                                     </a>
                                 </li>
-                                <li className="nav-item">
+                                <li className="nav-item flex-fill border-end me-2 p-1">
                                     <a href="" className="nav-link">
                                         Customer care
                                     </a>
                                 </li>
-                                <li className="nav-item">
+                                <li className="nav-item flex-fill border-end me-2 p-1">
                                     <a href="" className="nav-link">
                                         Track your order
                                     </a>
                                 </li>
-                            </ul>
-                        </div>
-                        <div className="col p-0 d-flex">
+                            
+                        
 
-                            <ul className="navbar-nav flex-row justify-content-evenly w-100 ps-3">
-
-                                <li className="nav-item">
+                           
+                                <li className="nav-item flex-fill border-end me-2 p-1">
                                     <a href="" className="nav-link">
                                         Help
                                     </a>
                                 </li>
-                                <li className="nav-item">
+                                <li className="nav-item flex-fill border-end me-2 p-1">
                                     <a href="" className="nav-link">
                                         Login
                                     </a>
                                 </li>
-                                <li className="nav-item">
+                                <li className="nav-item flex-fill border-end me-2 p-1">
                                     <button href="" className="btn btn-primary">
                                         Sign Up
                                     </button>
                                 </li>
                             </ul>
-                        </div>
-                    </div>
+                        
+                    
                 </nav>
             </div>
 

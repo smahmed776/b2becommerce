@@ -1,7 +1,7 @@
 import React from 'react'
 import Slider from 'react-slick';
-import clothcarousel from '../../img/clothcarousel.png'
-import item1 from '../../img/item1.png'
+import clothcarousel from '../../../../img/clothcarousel.png'
+import item1 from '../../../../img/item1.png'
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css'
 import './categories.css'

@@ -1,7 +1,7 @@
 import React from 'react'
 import Countdown, { zeroPad } from 'react-countdown'
-import orange from '../../img/orange.png'
-import whyChose from '../../img/whyChose.png'
+import orange from '../../../../img/orange.png'
+import whyChose from '../../../../img/whyChose.png'
 
 const FlashSale = () => {
 

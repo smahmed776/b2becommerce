@@ -1,6 +1,6 @@
 import React from 'react'
-import HeroCarousel from '../Carousel/HeroCarousel'
-import { FooterLinks } from '../dummydata/dummydata'
+import HeroCarousel from '../../../Carousel/HeroCarousel'
+import { FooterLinks } from '../../../dummydata/dummydata'
 
 const Hero = () => {
     return (

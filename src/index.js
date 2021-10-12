@@ -6,11 +6,18 @@ import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap';
 import 'bootstrap-icons/font/bootstrap-icons.css'
-import '@popperjs/core'
+import '@popperjs/core';
+import { HashRouter } from 'react-router-dom';
+import { RatingContextProvider } from './Components/GlobalContext/RatingContext';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <HashRouter>
+      <RatingContextProvider>
+
+      <App />
+      </RatingContextProvider>
+    </HashRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );

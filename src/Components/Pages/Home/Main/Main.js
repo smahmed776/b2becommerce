@@ -1,8 +1,9 @@
 import React from 'react'
-import Testimonials from '../Carousel/Testimonials'
-import Categories from './Categories'
-import FlashSale from './FlashSale'
-import Hero from './Hero'
+import Hero from './Hero';
+import FlashSale from './FlashSale';
+import Categories from './Categories';
+import Testimonials from '../../../Carousel/Testimonials';
+
 
 const Main = () => {
     return (
