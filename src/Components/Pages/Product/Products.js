@@ -4,6 +4,7 @@ import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css'
 import { RatingContext } from '../../GlobalContext/RatingContext';
 import './Products.css'
+import CompanyDetails from './CompanyDetails';
 
 const Products = () => {
 
@@ -39,17 +40,17 @@ const Products = () => {
 
 
     return (
-        <main className="my-5">
-            <div className="container-fluid py-2 px-5">
-                <div className="row m-0 border">
+        <main className="my-3">
+            <div className="container-fluid py-2 px-0 px-sm-3 px-xl-5">
+                <div className="row m-0 border mb-3">
 
 
-                    <div className="col-9 bg-white p-0">
+                    <div className="col-12 col-sm-8 col-lg-9 bg-white p-0">
                         <div className="">
-                            <div className="row m-0 gx-2">
-                                <div className="col-5">
-                                    <img src={img[0]} alt="" height="300px" width="85%" />
-                                <div className="p-3">
+                            <div className="row m-0 gx-0 gx-xl-2">
+                                <div className="col-12 col-lg-5 p-1 p-sm-5 p-lg-1">
+                                    <img src={img[0]} alt="" height="300px" width="100%" />
+                                <div className="p-0 p-sm-3">
                                     <Slider
                                     slidesToShow={3}
                                     slidesToScroll={1}
@@ -60,42 +61,42 @@ const Products = () => {
                                         <div className=" p-1">
                                             <div className="border rounded shadow-sm p-1">
 
-                                    <img src={img[0]} alt="" height="75" width="85%" />
+                                    <img src={img[0]} alt="" height="75" width="100%" />
                                             </div>
 
                                         </div>
                                         <div className=" p-1">
                                             <div className="border rounded shadow-sm p-1">
 
-                                    <img src={img[1]} alt="" height="75" width="85%" />
+                                    <img src={img[1]} alt="" height="75" width="100%" />
                                             </div>
 
                                         </div>
                                         <div className=" p-1">
                                             <div className="border rounded shadow-sm p-1">
 
-                                    <img src={img[2]} alt="" height="75" width="85%" />
+                                    <img src={img[2]} alt="" height="75" width="100%" />
                                             </div>
 
                                         </div>
                                         <div className=" p-1">
                                             <div className="border rounded shadow-sm p-1">
 
-                                    <img src={img[3]} alt="" height="75" width="85%" />
+                                    <img src={img[3]} alt="" height="75" width="100%" />
                                             </div>
 
                                         </div>
                                         <div className=" p-1">
                                             <div className="border rounded shadow-sm p-1">
 
-                                    <img src={img[0]} alt="" height="75" width="85%" />
+                                    <img src={img[0]} alt="" height="75" width="100%" />
                                             </div>
 
                                         </div>
                                         <div className=" p-1">
                                             <div className="border rounded shadow-sm p-1">
 
-                                    <img src={img[1]} alt="" height="75" width="85%" />
+                                    <img src={img[1]} alt="" height="75" width="100%" />
                                             </div>
 
                                         </div>
@@ -105,9 +106,9 @@ const Products = () => {
                                 </div>
 
 
-                                <div className="col-7 p-2">
+                                <div className="col-12 col-lg-7 p-2">
 
-                                    <div className="row m-0 pb-3">
+                                    <div className="row m-0 g-0 g-xl-2 pb-3">
 
                                         <div className="col-12">
                                             <h5>Korean womens high end Laptot 499HDD 8gb ram corei7 processor 10th generation</h5>
@@ -124,7 +125,7 @@ const Products = () => {
                                                         464 total answered questions
                                                     </small>
                                                 </div>
-                                                <span className="bi bi-share"></span>
+                                                <span className="bi bi-share pe-3 pe-sm-0"></span>
                                                 <span className="bi bi-heart"></span>
                                             </div>
                                             <div className="d-flex justify-content-start py-2">
@@ -158,7 +159,7 @@ const Products = () => {
                                             <div>
                                                 <p className="text-muted">Color Family : <span className="ms-2 text-dark">Black</span></p>
                                             </div>
-                                            <div className="row row-cols-5">
+                                            <div className="row row-cols-5 m-0 w-100">
                                                 <div className="col">
                                                     <div className="border d-flex flex-column justify-content-center">
                                                         <div className="d-flex justify-content-center">
@@ -202,11 +203,11 @@ const Products = () => {
                                             <div className="row row-cols-2">
                                                 <div className="col">
 
-                                                    <button className="btn btn-primary w-100">Buy Now</button>
+                                                    <button className="btn btn-primary text-white w-100">Buy Now</button>
                                                 </div>
                                                 <div className="col">
 
-                                                    <button className="btn btn-warning w-100">Group Buy</button>
+                                                    <button className="btn btn-warning text-white w-100">Group Buy</button>
                                                 </div>
                                             </div>
                                         </div>
@@ -221,7 +222,7 @@ const Products = () => {
 
 
 
-                    <div className="col-3 bg-light p-0">
+                    <div className="col-12 col-sm-4 col-lg-3 bg-light p-0">
                         <div className=" p-3">
                             <div className="row row-cols-1">
                                 <div className="col">
@@ -283,6 +284,9 @@ const Products = () => {
                         </div>
                     </div>
                 </div>
+
+
+                <CompanyDetails />
             </div>
         </main>
     )
