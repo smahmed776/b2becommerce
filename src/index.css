@@ -12,3 +12,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.custom-rounded {
+  border-radius: 1rem;
+}
+.custom-rounded-topleft {
+  border-top-left-radius: 1rem;
+}
+.custom-rounded-bottomleft {
+  border-bottom-left-radius: 1rem;
+}
+.custom-rounded-topright {
+  border-top-right-radius: 1rem;
+}
+.custom-rounded-bottomright {
+  border-bottom-right-radius: 1rem;
+}

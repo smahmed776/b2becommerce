@@ -122,17 +122,17 @@ const Header = () => {
                     
 
                             <ul className="navbar-nav flex-row flex-wrap justify-content-evenly w-100 ps-3">
-                                <li className="nav-item flex-fill border-end me-2 p-1">
+                                <li className="nav-item flex-fill me-2 p-1">
                                     <a href="/" className="nav-link">
                                         <span className="bi bi-justify pe-3"></span> Categories
                                     </a>
                                 </li>
-                                <li className="nav-item flex-fill border-end me-2 p-1">
+                                <li className="nav-item flex-fill me-2 p-1">
                                     <a href="/" className="nav-link">
                                         Save more on app
                                     </a>
                                 </li>
-                                <li className="nav-item flex-fill border-end me-2 p-1">
+                                <li className="nav-item flex-fill me-2 p-1">
                                     <a href="/" className="nav-link">
                                         Affiliate Program
                                     </a>
@@ -142,17 +142,17 @@ const Header = () => {
                         
                        
 
-                                <li className="nav-item flex-fill border-end me-2 p-1">
+                                <li className="nav-item flex-fill me-2 p-1">
                                     <a href="/" className="nav-link">
                                         Sell on imponexpo
                                     </a>
                                 </li>
-                                <li className="nav-item flex-fill border-end me-2 p-1">
+                                <li className="nav-item flex-fill me-2 p-1">
                                     <a href="/" className="nav-link">
                                         Customer care
                                     </a>
                                 </li>
-                                <li className="nav-item flex-fill border-end me-2 p-1">
+                                <li className="nav-item flex-fill me-2 p-1">
                                     <a href="/" className="nav-link">
                                         Track your order
                                     </a>
@@ -161,17 +161,17 @@ const Header = () => {
                         
 
                            
-                                <li className="nav-item flex-fill border-end me-2 p-1">
+                                <li className="nav-item flex-fill me-2 p-1">
                                     <a href="/" className="nav-link">
                                         Help
                                     </a>
                                 </li>
-                                <li className="nav-item flex-fill border-end me-2 p-1">
+                                <li className="nav-item flex-fill me-2 p-1">
                                     <a href="/" className="nav-link">
                                         Login
                                     </a>
                                 </li>
-                                <li className="nav-item flex-fill border-end me-2 p-1">
+                                <li className="nav-item flex-fill me-2 p-1">
                                     <button href="" className="btn btn-primary">
                                         Sign Up
                                     </button>
