@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/b2becommerce/static/css/main.04846626.chunk.css",
-    "main.js": "/b2becommerce/static/js/main.b19e0f8b.chunk.js",
-    "main.js.map": "/b2becommerce/static/js/main.b19e0f8b.chunk.js.map",
-    "runtime-main.js": "/b2becommerce/static/js/runtime-main.75469ce1.js",
-    "runtime-main.js.map": "/b2becommerce/static/js/runtime-main.75469ce1.js.map",
-    "static/css/2.805ab99a.chunk.css": "/b2becommerce/static/css/2.805ab99a.chunk.css",
-    "static/js/2.1e5d8c68.chunk.js": "/b2becommerce/static/js/2.1e5d8c68.chunk.js",
-    "static/js/2.1e5d8c68.chunk.js.map": "/b2becommerce/static/js/2.1e5d8c68.chunk.js.map",
-    "static/js/3.8b84ecb4.chunk.js": "/b2becommerce/static/js/3.8b84ecb4.chunk.js",
-    "static/js/3.8b84ecb4.chunk.js.map": "/b2becommerce/static/js/3.8b84ecb4.chunk.js.map",
+    "main.css": "/b2becommerce/static/css/main.a14ff254.chunk.css",
+    "main.js": "/b2becommerce/static/js/main.4385be06.chunk.js",
+    "main.js.map": "/b2becommerce/static/js/main.4385be06.chunk.js.map",
+    "runtime-main.js": "/b2becommerce/static/js/runtime-main.2f228d24.js",
+    "runtime-main.js.map": "/b2becommerce/static/js/runtime-main.2f228d24.js.map",
+    "static/css/2.583d0c86.chunk.css": "/b2becommerce/static/css/2.583d0c86.chunk.css",
+    "static/js/2.3d68d013.chunk.js": "/b2becommerce/static/js/2.3d68d013.chunk.js",
+    "static/js/2.3d68d013.chunk.js.map": "/b2becommerce/static/js/2.3d68d013.chunk.js.map",
+    "static/js/3.324de087.chunk.js": "/b2becommerce/static/js/3.324de087.chunk.js",
+    "static/js/3.324de087.chunk.js.map": "/b2becommerce/static/js/3.324de087.chunk.js.map",
     "index.html": "/b2becommerce/index.html",
-    "static/css/2.805ab99a.chunk.css.map": "/b2becommerce/static/css/2.805ab99a.chunk.css.map",
-    "static/css/main.04846626.chunk.css.map": "/b2becommerce/static/css/main.04846626.chunk.css.map",
-    "static/js/2.1e5d8c68.chunk.js.LICENSE.txt": "/b2becommerce/static/js/2.1e5d8c68.chunk.js.LICENSE.txt",
+    "static/css/2.583d0c86.chunk.css.map": "/b2becommerce/static/css/2.583d0c86.chunk.css.map",
+    "static/css/main.a14ff254.chunk.css.map": "/b2becommerce/static/css/main.a14ff254.chunk.css.map",
+    "static/js/2.3d68d013.chunk.js.LICENSE.txt": "/b2becommerce/static/js/2.3d68d013.chunk.js.LICENSE.txt",
     "static/media/bootstrap-icons.css": "/b2becommerce/static/media/bootstrap-icons.dfd0ea12.woff2",
     "static/media/carousel.84cc4e3d.png": "/b2becommerce/static/media/carousel.84cc4e3d.png",
     "static/media/categories.css": "/b2becommerce/static/media/clothcarousel.6d933afb.png",
@@ -28,10 +28,10 @@
     "static/media/whyChose.03b11b30.png": "/b2becommerce/static/media/whyChose.03b11b30.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.75469ce1.js",
-    "static/css/2.805ab99a.chunk.css",
-    "static/js/2.1e5d8c68.chunk.js",
-    "static/css/main.04846626.chunk.css",
-    "static/js/main.b19e0f8b.chunk.js"
+    "static/js/runtime-main.2f228d24.js",
+    "static/css/2.583d0c86.chunk.css",
+    "static/js/2.3d68d013.chunk.js",
+    "static/css/main.a14ff254.chunk.css",
+    "static/js/main.4385be06.chunk.js"
   ]
 }
