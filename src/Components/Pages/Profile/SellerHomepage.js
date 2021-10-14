@@ -1,7 +1,6 @@
 import React, { useContext } from 'react';
 import { Player, BigPlayButton } from 'video-react';
 import 'video-react/dist/video-react.css'
-import myvideo from '../../../video/myvideo.mp4'
 import clothcarousel from '../../../img/clothcarousel.png'
 import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css'
@@ -33,7 +32,7 @@ const SellerHomepage = ({ show }) => {
                                     <BigPlayButton position="center" />
                                     <LoadingSpinner />
                                     <ControlBar autoHide={true} />
-                                    <source src={myvideo} type="video/mp4" />
+                                    <source src="https://www.youtube.com/watch?v=tMw-vA12d0Y" type="video/mp4" />
                                 </Player>
                             </div>
 
